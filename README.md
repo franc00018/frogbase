@@ -95,7 +95,7 @@ git clone https://github.com/hayabhay/frogbase.git
    1. Using pip
 
       ```console
-      pip install frogbase streamlit
+      pip install frogbase streamlit openai python-dotenv
       streamlit run ui/01_🏠_Home.py
       ```
 
